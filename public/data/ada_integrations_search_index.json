@@ -1,0 +1,4076 @@
+{
+  "index": [
+    {
+      "vendor": "123",
+      "domains": [
+        "123.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "23Andme",
+      "domains": [
+        "23andme.com",
+        "23andme.io"
+      ],
+      "endpoint_count": 7,
+      "use_case_count": 4
+    },
+    {
+      "vendor": "2Ip",
+      "domains": [
+        "2ip.me",
+        "2ip.ua"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "7Shifts",
+      "domains": [
+        "7shifts.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "8X8",
+      "domains": [
+        "8x8.com"
+      ],
+      "endpoint_count": 4,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "8X8Pilot",
+      "domains": [
+        "8x8pilot.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "<Site",
+      "domains": [
+        "<site"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Ada",
+      "domains": [
+        "ada.com",
+        "ada.cx",
+        "ada.support"
+      ],
+      "endpoint_count": 3262,
+      "use_case_count": 7
+    },
+    {
+      "vendor": "Ada Dev2",
+      "domains": [
+        "ada-dev2.support"
+      ],
+      "endpoint_count": 4,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Adviceslip",
+      "domains": [
+        "adviceslip.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Aftership",
+      "domains": [
+        "aftership.com"
+      ],
+      "endpoint_count": 10,
+      "use_case_count": 4
+    },
+    {
+      "vendor": "Agentstudio",
+      "domains": [
+        "agentstudio.io"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Agify",
+      "domains": [
+        "agify.io"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Ahiapp",
+      "domains": [
+        "ahiapp.ai"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Airtable",
+      "domains": [
+        "airtable.com"
+      ],
+      "endpoint_count": 11,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Akashrajpurohit",
+      "domains": [
+        "akashrajpurohit.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Akeneo",
+      "domains": [
+        "akeneo.com"
+      ],
+      "endpoint_count": 6,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Alltrails",
+      "domains": [
+        "alltrails.com"
+      ],
+      "endpoint_count": 22,
+      "use_case_count": 4
+    },
+    {
+      "vendor": "Alltrails Alpha",
+      "domains": [
+        "alltrails-alpha.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Alomoves",
+      "domains": [
+        "alomoves.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Amazon Web Services",
+      "domains": [
+        "amazonaws.com"
+      ],
+      "endpoint_count": 30,
+      "use_case_count": 7
+    },
+    {
+      "vendor": "Amazoncognito",
+      "domains": [
+        "amazoncognito.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Amway",
+      "domains": [
+        "amway.eu",
+        "amway.net"
+      ],
+      "endpoint_count": 18,
+      "use_case_count": 4
+    },
+    {
+      "vendor": "Amwayglobal",
+      "domains": [
+        "amwayglobal.com"
+      ],
+      "endpoint_count": 14,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Anthropic",
+      "domains": [
+        "anthropic.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Aofl",
+      "domains": [
+        "aofl.com"
+      ],
+      "endpoint_count": 21,
+      "use_case_count": 7
+    },
+    {
+      "vendor": "Api",
+      "domains": [
+        "api.com"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Api Ninjas",
+      "domains": [
+        "api-ninjas.com"
+      ],
+      "endpoint_count": 4,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Api Sports",
+      "domains": [
+        "api-sports.io"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Apiairasia",
+      "domains": [
+        "apiairasia.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Apigee",
+      "domains": [
+        "apigee.net"
+      ],
+      "endpoint_count": 10,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Appbrewery",
+      "domains": [
+        "appbrewery.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Appspot",
+      "domains": [
+        "appspot.com"
+      ],
+      "endpoint_count": 6,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Aramex",
+      "domains": [
+        "aramex.net"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Articulate",
+      "domains": [
+        "articulate.com",
+        "articulate.zone"
+      ],
+      "endpoint_count": 4,
+      "use_case_count": 4
+    },
+    {
+      "vendor": "Asdfasdf",
+      "domains": [
+        "asdfasdf.cdd"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Ashbyhq",
+      "domains": [
+        "ashbyhq.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Astropay",
+      "domains": [
+        "astropay.com"
+      ],
+      "endpoint_count": 102,
+      "use_case_count": 5
+    },
+    {
+      "vendor": "Atlassian",
+      "domains": [
+        "atlassian.net"
+      ],
+      "endpoint_count": 7,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Auth0",
+      "domains": [
+        "auth0.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Authbill",
+      "domains": [
+        "authbill.com"
+      ],
+      "endpoint_count": 17,
+      "use_case_count": 4
+    },
+    {
+      "vendor": "Autotab",
+      "domains": [
+        "autotab.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Awsapprunner",
+      "domains": [
+        "awsapprunner.com"
+      ],
+      "endpoint_count": 11,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Azurewebsites",
+      "domains": [
+        "azurewebsites.net"
+      ],
+      "endpoint_count": 6,
+      "use_case_count": 5
+    },
+    {
+      "vendor": "Bamboohr",
+      "domains": [
+        "bamboohr.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Bark",
+      "domains": [
+        "bark.us"
+      ],
+      "endpoint_count": 5,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Barnesandnoble",
+      "domains": [
+        "barnesandnoble.com"
+      ],
+      "endpoint_count": 8,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Beecetor",
+      "domains": [
+        "beecetor.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Beehiiv",
+      "domains": [
+        "beehiiv.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Beeswiki",
+      "domains": [
+        "beeswiki.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Bet At Home",
+      "domains": [
+        "bet-at-home.com"
+      ],
+      "endpoint_count": 7,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Betterment",
+      "domains": [
+        "betterment.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Bf",
+      "domains": [
+        "bf.gy"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Bfainfra",
+      "domains": [
+        "bfainfra.com"
+      ],
+      "endpoint_count": 16,
+      "use_case_count": 4
+    },
+    {
+      "vendor": "Bigbrain",
+      "domains": [
+        "bigbrain.me"
+      ],
+      "endpoint_count": 23,
+      "use_case_count": 6
+    },
+    {
+      "vendor": "Bigbrainstaging",
+      "domains": [
+        "bigbrainstaging.me"
+      ],
+      "endpoint_count": 12,
+      "use_case_count": 5
+    },
+    {
+      "vendor": "Bigcommerce",
+      "domains": [
+        "bigcommerce.com"
+      ],
+      "endpoint_count": 9,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Bing",
+      "domains": [
+        "bing.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Birdeye",
+      "domains": [
+        "birdeye.com"
+      ],
+      "endpoint_count": 5,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Bitget",
+      "domains": [
+        "bitget.com"
+      ],
+      "endpoint_count": 4,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Bitly",
+      "domains": [
+        "bitly.com"
+      ],
+      "endpoint_count": 18,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Blockchain",
+      "domains": [
+        "blockchain.info"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Blockdaemon",
+      "domains": [
+        "blockdaemon.com"
+      ],
+      "endpoint_count": 4,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Bmgmoney",
+      "domains": [
+        "bmgmoney.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Boomi",
+      "domains": [
+        "boomi.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Borderpass",
+      "domains": [
+        "borderpass.ca"
+      ],
+      "endpoint_count": 5,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Bulk",
+      "domains": [
+        "bulk.com"
+      ],
+      "endpoint_count": 9,
+      "use_case_count": 4
+    },
+    {
+      "vendor": "Busbud",
+      "domains": [
+        "busbud.com"
+      ],
+      "endpoint_count": 12,
+      "use_case_count": 4
+    },
+    {
+      "vendor": "Buttercms",
+      "domains": [
+        "buttercms.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Cableone",
+      "domains": [
+        "cableone.net"
+      ],
+      "endpoint_count": 9,
+      "use_case_count": 4
+    },
+    {
+      "vendor": "Cal",
+      "domains": [
+        "cal.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Calendarific",
+      "domains": [
+        "calendarific.com"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Caliberinternal",
+      "domains": [
+        "caliberinternal.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Canada Post",
+      "domains": [
+        "canadapost.ca"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Canny",
+      "domains": [
+        "canny.io"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Cataas",
+      "domains": [
+        "cataas.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Catfact",
+      "domains": [
+        "catfact.ninja"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Cebupacificair",
+      "domains": [
+        "cebupacificair.com"
+      ],
+      "endpoint_count": 12,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Centra",
+      "domains": [
+        "centra.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Cerb",
+      "domains": [
+        "cerb.me"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Chainpatrol",
+      "domains": [
+        "chainpatrol.io"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Chargebee",
+      "domains": [
+        "chargebee.com"
+      ],
+      "endpoint_count": 5,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Chargedesk",
+      "domains": [
+        "chargedesk.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Checkoutchamp",
+      "domains": [
+        "checkoutchamp.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Checkr",
+      "domains": [
+        "checkr.com"
+      ],
+      "endpoint_count": 37,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Chilipiper",
+      "domains": [
+        "chilipiper.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Chime",
+      "domains": [
+        "chime.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Chriserwin",
+      "domains": [
+        "chriserwin.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Classlink",
+      "domains": [
+        "classlink.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Classy",
+      "domains": [
+        "classy.org"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Clearbit",
+      "domains": [
+        "clearbit.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Clearcover",
+      "domains": [
+        "clearcover.com",
+        "clearcover.systems"
+      ],
+      "endpoint_count": 40,
+      "use_case_count": 4
+    },
+    {
+      "vendor": "Clearcoverpartner",
+      "domains": [
+        "clearcoverpartner.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Clickup",
+      "domains": [
+        "clickup.com"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Clickup Stg",
+      "domains": [
+        "clickup-stg.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Cloudfunctions",
+      "domains": [
+        "cloudfunctions.net"
+      ],
+      "endpoint_count": 15,
+      "use_case_count": 4
+    },
+    {
+      "vendor": "Cloudhub",
+      "domains": [
+        "cloudhub.io"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Co",
+      "domains": [
+        "co.id",
+        "co.id{678632eab5911e6082a0a964|}",
+        "co.id{678632eab5911e6082a0a964|}{683d6f4a9e908126b7659041|}{683d693aacebc15ed9aa88a7|}{683d6fdf72107e85dc8e589a|}",
+        "co.kr",
+        "co.kr{678632eab5911e6082a0a964|}",
+        "co.nz",
+        "co.nz{678632eab5911e6082a0a964|}",
+        "co.nz{683d693aacebc15ed9aa88a7|}",
+        "co.th",
+        "co.uk"
+      ],
+      "endpoint_count": 108,
+      "use_case_count": 10
+    },
+    {
+      "vendor": "Co Gaming",
+      "domains": [
+        "co-gaming.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Coastlineacademy",
+      "domains": [
+        "coastlineacademy.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Coconutcalendar",
+      "domains": [
+        "coconutcalendar.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Coindesk",
+      "domains": [
+        "coindesk.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Coingecko",
+      "domains": [
+        "coingecko.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Coinmarketcap",
+      "domains": [
+        "coinmarketcap.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Com",
+      "domains": [
+        "com.au",
+        "com.au{678632eab5911e6082a0a964|}",
+        "com.hk",
+        "com.hk{678632eab5911e6082a0a964|}",
+        "com.hk{683d6f4a9e908126b7659041|}{683d693aacebc15ed9aa88a7|}",
+        "com.tw",
+        "com.tw{678632eab5911e6082a0a964|}",
+        "com.ua"
+      ],
+      "endpoint_count": 81,
+      "use_case_count": 8
+    },
+    {
+      "vendor": "Comm100",
+      "domains": [
+        "comm100.io"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Cool Api",
+      "domains": [
+        "cool-api.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Copper",
+      "domains": [
+        "copper.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Corpsson",
+      "domains": [
+        "corpsson.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Country",
+      "domains": [
+        "country.is"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Creatio",
+      "domains": [
+        "creatio.com"
+      ],
+      "endpoint_count": 22,
+      "use_case_count": 4
+    },
+    {
+      "vendor": "Cricut",
+      "domains": [
+        "cricut.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Csb",
+      "domains": [
+        "csb.app"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Csrng",
+      "domains": [
+        "csrng.net"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Cuca",
+      "domains": [
+        "cuca.dev"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Current",
+      "domains": [
+        "current.com"
+      ],
+      "endpoint_count": 20,
+      "use_case_count": 5
+    },
+    {
+      "vendor": "DHL",
+      "domains": [
+        "dhl.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Dailypay",
+      "domains": [
+        "dailypay.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Dandyqa",
+      "domains": [
+        "dandyqa.dev"
+      ],
+      "endpoint_count": 4,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Dataaccess",
+      "domains": [
+        "dataaccess.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Databricks",
+      "domains": [
+        "databricks.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Datausa",
+      "domains": [
+        "datausa.io"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Deezer",
+      "domains": [
+        "deezer.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Dejete",
+      "domains": [
+        "dejete.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Demandware",
+      "domains": [
+        "demandware.com"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Dictionaryapi",
+      "domains": [
+        "dictionaryapi.dev"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Digicelgroup",
+      "domains": [
+        "digicelgroup.com"
+      ],
+      "endpoint_count": 8,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Ding",
+      "domains": [
+        "ding.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Dingstag",
+      "domains": [
+        "dingstag.com"
+      ],
+      "endpoint_count": 4,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Discogs",
+      "domains": [
+        "discogs.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Disk",
+      "domains": [
+        "disk.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Dixa",
+      "domains": [
+        "dixa.io"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Djekj",
+      "domains": [
+        "djekj.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Dnd5Eapi",
+      "domains": [
+        "dnd5eapi.co"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Dog",
+      "domains": [
+        "dog.ceo"
+      ],
+      "endpoint_count": 5,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Dogapi",
+      "domains": [
+        "dogapi.dog"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Donanimhaber",
+      "domains": [
+        "donanimhaber.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Dragonball Api",
+      "domains": [
+        "dragonball-api.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Dummyjson",
+      "domains": [
+        "dummyjson.com"
+      ],
+      "endpoint_count": 7,
+      "use_case_count": 4
+    },
+    {
+      "vendor": "Earnest",
+      "domains": [
+        "earnest.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Edgenuity",
+      "domains": [
+        "edgenuity.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Egodit",
+      "domains": [
+        "egodit.org"
+      ],
+      "endpoint_count": 6,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Eightballapi",
+      "domains": [
+        "eightballapi.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Emersonecologics",
+      "domains": [
+        "emersonecologics.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Empower",
+      "domains": [
+        "empower.me"
+      ],
+      "endpoint_count": 15,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Empowerapp",
+      "domains": [
+        "empowerapp.mx"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Eq3",
+      "domains": [
+        "eq3.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Escuelajs",
+      "domains": [
+        "escuelajs.co"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Esky",
+      "domains": [
+        "esky.com"
+      ],
+      "endpoint_count": 11,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Espn",
+      "domains": [
+        "espn.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Ethplorer",
+      "domains": [
+        "ethplorer.io"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Eu",
+      "domains": [
+        "eu.com"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Eventconnect",
+      "domains": [
+        "eventconnect.io"
+      ],
+      "endpoint_count": 14,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Ewscloud",
+      "domains": [
+        "ewscloud.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Example",
+      "domains": [
+        "example.com"
+      ],
+      "endpoint_count": 12,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Exchangerate",
+      "domains": [
+        "exchangerate.host"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Fakestoreapi",
+      "domains": [
+        "fakestoreapi.com"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "FedEx",
+      "domains": [
+        "fedex.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Ficanex",
+      "domains": [
+        "ficanex.ca"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Finn",
+      "domains": [
+        "finn.auto"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Finnhub",
+      "domains": [
+        "finnhub.io"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Firecrawl",
+      "domains": [
+        "firecrawl.dev"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Fitonhealth",
+      "domains": [
+        "fitonhealth.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Fiverr",
+      "domains": [
+        "fiverr.com"
+      ],
+      "endpoint_count": 9,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Flycharterjet",
+      "domains": [
+        "flycharterjet.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Flywire",
+      "domains": [
+        "flywire.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Fonbnk Services",
+      "domains": [
+        "fonbnk-services.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Football Data",
+      "domains": [
+        "football-data.org"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Found",
+      "domains": [
+        "found.com",
+        "found.ee"
+      ],
+      "endpoint_count": 6,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Freightclub",
+      "domains": [
+        "freightclub.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Freshdesk",
+      "domains": [
+        "freshdesk.com"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Fullcript",
+      "domains": [
+        "fullcript.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Fullscript",
+      "domains": [
+        "fullscript.io",
+        "fullscript.io}",
+        "fullscript.io}{6554e3d9490a6f4d475ab9f4|}"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Fullstory",
+      "domains": [
+        "fullstory.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Functionhealth",
+      "domains": [
+        "functionhealth.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Gadget",
+      "domains": [
+        "gadget.app"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Gainbridge Qa",
+      "domains": [
+        "gainbridge-qa.com"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Gainsightcloud",
+      "domains": [
+        "gainsightcloud.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Gasbuddy",
+      "domains": [
+        "gasbuddy.engineering"
+      ],
+      "endpoint_count": 4,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Gateway",
+      "domains": [
+        "gateway.{67860d39490210110e5ec41c|}",
+        "gateway.{678632eab5911e6082a0a964|goshopba}",
+        "gateway.{678632eab5911e6082a0a964|goshopba}{682c199d4b8d70fc8b914d8f|}",
+        "gateway.{678632eab5911e6082a0a964|}",
+        "gateway.{678632eab5911e6082a0a964|}{67c52514c34498c997e821f4|}",
+        "gateway.{678632eab5911e6082a0a964|}{6819731f6f6c1d6825994b8f|}",
+        "gateway.{678632eab5911e6082a0a964|}{682c199d4b8d70fc8b914d8f|}",
+        "gateway.{678632eab5911e6082a0a964|}{682c1db486242eb86433b1a0|}",
+        "gateway.{67c52514c34498c997e821f4|}",
+        "gateway.{67c52514c34498c997e821f4|}{678632eab5911e6082a0a964|}",
+        "gateway.{682c199d4b8d70fc8b914d8f|}{678632eab5911e6082a0a964|}",
+        "gateway.{682c1db486242eb86433b1a0|}{678632eab5911e6082a0a964|}"
+      ],
+      "endpoint_count": 87,
+      "use_case_count": 6
+    },
+    {
+      "vendor": "Gcashwiki",
+      "domains": [
+        "gcashwiki.com"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Geoapify",
+      "domains": [
+        "geoapify.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Geodis",
+      "domains": [
+        "geodis.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Getambassador",
+      "domains": [
+        "getambassador.com"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Getconvey",
+      "domains": [
+        "getconvey.com"
+      ],
+      "endpoint_count": 9,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Getguru",
+      "domains": [
+        "getguru.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Getharley",
+      "domains": [
+        "getharley.com"
+      ],
+      "endpoint_count": 20,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Getmidas",
+      "domains": [
+        "getmidas.com"
+      ],
+      "endpoint_count": 19,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Getontop",
+      "domains": [
+        "getontop.com"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Getpostman",
+      "domains": [
+        "getpostman.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Getredo",
+      "domains": [
+        "getredo.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Getsbet",
+      "domains": [
+        "getsbet.ro"
+      ],
+      "endpoint_count": 4,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Giftcardgranny",
+      "domains": [
+        "giftcardgranny.com"
+      ],
+      "endpoint_count": 10,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Giftcardgrannystage",
+      "domains": [
+        "giftcardgrannystage.com"
+      ],
+      "endpoint_count": 11,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Giftya",
+      "domains": [
+        "giftya.com"
+      ],
+      "endpoint_count": 13,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Giftyastage",
+      "domains": [
+        "giftyastage.com"
+      ],
+      "endpoint_count": 13,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Github",
+      "domains": [
+        "github.com",
+        "github.io"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Gladly",
+      "domains": [
+        "gladly.qa"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Glassesusa",
+      "domains": [
+        "glassesusa.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Glitch",
+      "domains": [
+        "glitch.me"
+      ],
+      "endpoint_count": 4,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Glossgenius",
+      "domains": [
+        "glossgenius.com",
+        "glossgenius.company"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Gls",
+      "domains": [
+        "gls.nl"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Gobble",
+      "domains": [
+        "gobble.com",
+        "gobble.dev"
+      ],
+      "endpoint_count": 15,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Gofan",
+      "domains": [
+        "gofan.co"
+      ],
+      "endpoint_count": 4,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Gofor",
+      "domains": [
+        "gofor.io"
+      ],
+      "endpoint_count": 16,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Gomotive",
+      "domains": [
+        "gomotive.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Google",
+      "domains": [
+        "google.at",
+        "google.ca",
+        "google.com",
+        "googleapis.com"
+      ],
+      "endpoint_count": 102,
+      "use_case_count": 6
+    },
+    {
+      "vendor": "Goose",
+      "domains": [
+        "goose.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Goshopback",
+      "domains": [
+        "goshopback.com",
+        "goshopback.com{678632eab5911e6082a0a964|}",
+        "goshopback.vn",
+        "goshopback.vn{678632eab5911e6082a0a964|}"
+      ],
+      "endpoint_count": 23,
+      "use_case_count": 4
+    },
+    {
+      "vendor": "Grafana",
+      "domains": [
+        "grafana.com"
+      ],
+      "endpoint_count": 4,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Gsipartners",
+      "domains": [
+        "gsipartners.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Hackurls",
+      "domains": [
+        "hackurls.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Happiestbaby",
+      "domains": [
+        "happiestbaby.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Hawkmarketplace",
+      "domains": [
+        "hawkmarketplace.com"
+      ],
+      "endpoint_count": 5,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Headspace",
+      "domains": [
+        "headspace.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Helius",
+      "domains": [
+        "helius.dev",
+        "helius.xyz"
+      ],
+      "endpoint_count": 4,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Help",
+      "domains": [
+        "help.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Herokuapp",
+      "domains": [
+        "herokuapp.com"
+      ],
+      "endpoint_count": 14,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Hertz",
+      "domains": [
+        "hertz.io"
+      ],
+      "endpoint_count": 7,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Hhs",
+      "domains": [
+        "hhs.gov"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Hillsidenewmedia",
+      "domains": [
+        "hillsidenewmedia.com"
+      ],
+      "endpoint_count": 15,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Hived",
+      "domains": [
+        "hived.dev"
+      ],
+      "endpoint_count": 5,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Hnst",
+      "domains": [
+        "hnst.app"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Homeexchange",
+      "domains": [
+        "homeexchange.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Httpbin",
+      "domains": [
+        "httpbin.org"
+      ],
+      "endpoint_count": 4,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Https",
+      "domains": [
+        "https"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Httpstat",
+      "domains": [
+        "httpstat.us"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Hubapi",
+      "domains": [
+        "hubapi.com"
+      ],
+      "endpoint_count": 5,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Icanhazdadjoke",
+      "domains": [
+        "icanhazdadjoke.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Iherb",
+      "domains": [
+        "iherb.com",
+        "iherb.net"
+      ],
+      "endpoint_count": 29,
+      "use_case_count": 5
+    },
+    {
+      "vendor": "Inspectorio",
+      "domains": [
+        "inspectorio.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Inspirobot",
+      "domains": [
+        "inspirobot.me"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Intelisys",
+      "domains": [
+        "intelisys.ca"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Intercom",
+      "domains": [
+        "intercom.io"
+      ],
+      "endpoint_count": 5,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Ipinfo",
+      "domains": [
+        "ipinfo.io"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Isevenapi",
+      "domains": [
+        "isevenapi.xyz"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Jamtest",
+      "domains": [
+        "jamtest.kitchen"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Jaws",
+      "domains": [
+        "jaws.fish"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Joinsherpa",
+      "domains": [
+        "joinsherpa.io"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Jokeapi",
+      "domains": [
+        "jokeapi.dev"
+      ],
+      "endpoint_count": 4,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Jolpi",
+      "domains": [
+        "jolpi.ca"
+      ],
+      "endpoint_count": 4,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Jsdelivr",
+      "domains": [
+        "jsdelivr.net"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Jsph",
+      "domains": [
+        "jsph.pl"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Jup",
+      "domains": [
+        "jup.ag"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "K2Labs",
+      "domains": [
+        "k2labs.org"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Kandji",
+      "domains": [
+        "kandji.io"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Kavehome",
+      "domains": [
+        "kavehome.com"
+      ],
+      "endpoint_count": 13,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Kits",
+      "domains": [
+        "kits.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Klaviyo",
+      "domains": [
+        "klaviyo.com"
+      ],
+      "endpoint_count": 4,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Kohls",
+      "domains": [
+        "kohls.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Kovi",
+      "domains": [
+        "kovi.us"
+      ],
+      "endpoint_count": 12,
+      "use_case_count": 4
+    },
+    {
+      "vendor": "Ksearchnet",
+      "domains": [
+        "ksearchnet.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Kustomerapp",
+      "domains": [
+        "kustomerapp.com"
+      ],
+      "endpoint_count": 4,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Leovegas",
+      "domains": [
+        "leovegas.net"
+      ],
+      "endpoint_count": 13,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Li",
+      "domains": [
+        "li.quest"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Lili",
+      "domains": [
+        "lili.co"
+      ],
+      "endpoint_count": 5,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Linkedin",
+      "domains": [
+        "linkedin.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Loavies",
+      "domains": [
+        "loavies.com"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Locus Api",
+      "domains": [
+        "locus-api.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Loopreturns",
+      "domains": [
+        "loopreturns.com"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Lovevery",
+      "domains": [
+        "lovevery.com"
+      ],
+      "endpoint_count": 7,
+      "use_case_count": 4
+    },
+    {
+      "vendor": "Lovevery Demo",
+      "domains": [
+        "lovevery-demo.com"
+      ],
+      "endpoint_count": 12,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Lovys",
+      "domains": [
+        "lovys.com"
+      ],
+      "endpoint_count": 17,
+      "use_case_count": 4
+    },
+    {
+      "vendor": "Lrlos",
+      "domains": [
+        "lrlos.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Luca",
+      "domains": [
+        "luca.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Lucid",
+      "domains": [
+        "lucid.app"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Luno",
+      "domains": [
+        "luno.com"
+      ],
+      "endpoint_count": 6,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Macmillan Learning",
+      "domains": [
+        "macmillan-learning.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Mainstreetcu",
+      "domains": [
+        "mainstreetcu.ca"
+      ],
+      "endpoint_count": 4,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Make",
+      "domains": [
+        "make.com"
+      ],
+      "endpoint_count": 9,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Makegoodfood",
+      "domains": [
+        "makegoodfood.ca"
+      ],
+      "endpoint_count": 16,
+      "use_case_count": 4
+    },
+    {
+      "vendor": "Malaysiaairlines",
+      "domains": [
+        "malaysiaairlines.com"
+      ],
+      "endpoint_count": 8,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Marketingcloudapis",
+      "domains": [
+        "marketingcloudapis.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Marshall",
+      "domains": [
+        "marshall.com"
+      ],
+      "endpoint_count": 6,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Melibo",
+      "domains": [
+        "melibo.de"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Meta",
+      "domains": [
+        "instagram.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Metaweather",
+      "domains": [
+        "metaweather.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Mindfulchef",
+      "domains": [
+        "mindfulchef.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Mizecx",
+      "domains": [
+        "mizecx.com"
+      ],
+      "endpoint_count": 5,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Mizu",
+      "domains": [
+        "mizu.pink"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Mockapi",
+      "domains": [
+        "mockapi.io"
+      ],
+      "endpoint_count": 9,
+      "use_case_count": 4
+    },
+    {
+      "vendor": "Mockaroo",
+      "domains": [
+        "mockaroo.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Mockbin",
+      "domains": [
+        "mockbin.io"
+      ],
+      "endpoint_count": 6,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Mocki",
+      "domains": [
+        "mocki.io"
+      ],
+      "endpoint_count": 5,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Moka",
+      "domains": [
+        "moka.ai"
+      ],
+      "endpoint_count": 8,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Monday",
+      "domains": [
+        "monday.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Mongodb",
+      "domains": [
+        "mongodb.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Mostpaths",
+      "domains": [
+        "mostpaths.com"
+      ],
+      "endpoint_count": 15,
+      "use_case_count": 4
+    },
+    {
+      "vendor": "Motherearthlabs",
+      "domains": [
+        "motherearthlabs.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Motork",
+      "domains": [
+        "motork.io"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Multbrand",
+      "domains": [
+        "multbrand.com"
+      ],
+      "endpoint_count": 4,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Musicbrainz",
+      "domains": [
+        "musicbrainz.org"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Mynt",
+      "domains": [
+        "mynt.xyz"
+      ],
+      "endpoint_count": 10,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Mypickme",
+      "domains": [
+        "mypickme.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Myttc",
+      "domains": [
+        "myttc.ca"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "N8N",
+      "domains": [
+        "n8n.cloud"
+      ],
+      "endpoint_count": 13,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Nager",
+      "domains": [
+        "nager.at"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Narvar",
+      "domains": [
+        "narvar.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Neofinancial",
+      "domains": [
+        "neofinancial.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Newsapi",
+      "domains": [
+        "newsapi.org"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Ngrok",
+      "domains": [
+        "ngrok.app",
+        "ngrok.io"
+      ],
+      "endpoint_count": 31,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Ngrok Free",
+      "domains": [
+        "ngrok-free.app"
+      ],
+      "endpoint_count": 11,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Ninjavan",
+      "domains": [
+        "ninjavan.co"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Nomadinternet",
+      "domains": [
+        "nomadinternet.com"
+      ],
+      "endpoint_count": 7,
+      "use_case_count": 4
+    },
+    {
+      "vendor": "Norges Bank",
+      "domains": [
+        "norges-bank.no"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Notion",
+      "domains": [
+        "notion.com"
+      ],
+      "endpoint_count": 5,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Npn Purposeadvisor",
+      "domains": [
+        "npn-purposeadvisor.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Nurse",
+      "domains": [
+        "nurse.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Oastify",
+      "domains": [
+        "oastify.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Ocx Int",
+      "domains": [
+        "ocx-int.com"
+      ],
+      "endpoint_count": 14,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Odoo",
+      "domains": [
+        "odoo.com"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Oklink",
+      "domains": [
+        "oklink.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Okta",
+      "domains": [
+        "okta.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Omio",
+      "domains": [
+        "omio.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "On",
+      "domains": [
+        "on.aws"
+      ],
+      "endpoint_count": 8,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Onepeloton",
+      "domains": [
+        "onepeloton.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Onfleet",
+      "domains": [
+        "onfleet.com"
+      ],
+      "endpoint_count": 4,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Onporter",
+      "domains": [
+        "onporter.run"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Onrender",
+      "domains": [
+        "onrender.com"
+      ],
+      "endpoint_count": 4,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Open Meteo",
+      "domains": [
+        "open-meteo.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Openstreetmap",
+      "domains": [
+        "openstreetmap.org"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Opentdb",
+      "domains": [
+        "opentdb.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Openweathermap",
+      "domains": [
+        "openweathermap.org"
+      ],
+      "endpoint_count": 15,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Oration",
+      "domains": [
+        "oration.ai"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Ourahub",
+      "domains": [
+        "ourahub.com"
+      ],
+      "endpoint_count": 5,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Ouraring",
+      "domains": [
+        "ouraring.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Paireyewear",
+      "domains": [
+        "paireyewear.net"
+      ],
+      "endpoint_count": 5,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Parcellab",
+      "domains": [
+        "parcellab.com"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Partnerstack",
+      "domains": [
+        "partnerstack.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Passportgloabl",
+      "domains": [
+        "passportgloabl.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Passportshipping",
+      "domains": [
+        "passportshipping.com"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Pendo",
+      "domains": [
+        "pendo.io"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Penguinpickup",
+      "domains": [
+        "penguinpickup.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Perenual",
+      "domains": [
+        "perenual.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Perfectgift",
+      "domains": [
+        "perfectgift.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Periscopedata",
+      "domains": [
+        "periscopedata.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Perplexity",
+      "domains": [
+        "perplexity.ai"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Phantom",
+      "domains": [
+        "phantom.app"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Philippineairlines",
+      "domains": [
+        "philippineairlines.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Phone",
+      "domains": [
+        "phone.community"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Pinterest",
+      "domains": [
+        "pinterest.com"
+      ],
+      "endpoint_count": 6,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Pipedream",
+      "domains": [
+        "pipedream.net"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Pixpay",
+      "domains": [
+        "pixpay.app"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Pktriot",
+      "domains": [
+        "pktriot.net"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Playtechhorizon",
+      "domains": [
+        "playtechhorizon.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Plesk",
+      "domains": [
+        "plesk.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Podium",
+      "domains": [
+        "podium.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Pokeapi",
+      "domains": [
+        "pokeapi.co"
+      ],
+      "endpoint_count": 4,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Postman Echo",
+      "domains": [
+        "postman-echo.com"
+      ],
+      "endpoint_count": 5,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Practicebetter",
+      "domains": [
+        "practicebetter.io"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Printify",
+      "domains": [
+        "printify.com"
+      ],
+      "endpoint_count": 5,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Productboard",
+      "domains": [
+        "productboard.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Prolific",
+      "domains": [
+        "prolific.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Pstmn",
+      "domains": [
+        "pstmn.io"
+      ],
+      "endpoint_count": 12,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Pthub2",
+      "domains": [
+        "pthub2.com"
+      ],
+      "endpoint_count": 15,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Pumpkin",
+      "domains": [
+        "pumpkin.care",
+        "pumpkin.dev"
+      ],
+      "endpoint_count": 4,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Py4E",
+      "domains": [
+        "py4e.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Q4Inc",
+      "domains": [
+        "q4inc.com"
+      ],
+      "endpoint_count": 4,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Qr Code Generator",
+      "domains": [
+        "qr-code-generator.com"
+      ],
+      "endpoint_count": 5,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Qualtrics",
+      "domains": [
+        "qualtrics.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Quickcontractors",
+      "domains": [
+        "quickcontractors.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Radial",
+      "domains": [
+        "radial.com"
+      ],
+      "endpoint_count": 8,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Railway",
+      "domains": [
+        "railway.app"
+      ],
+      "endpoint_count": 7,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Random D",
+      "domains": [
+        "random-d.uk"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Randomuser",
+      "domains": [
+        "randomuser.me"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Rapidapi",
+      "domains": [
+        "rapidapi.com"
+      ],
+      "endpoint_count": 5,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Rbi",
+      "domains": [
+        "rbi.digital"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Rbictg",
+      "domains": [
+        "rbictg.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Rechargeapps",
+      "domains": [
+        "rechargeapps.com"
+      ],
+      "endpoint_count": 27,
+      "use_case_count": 6
+    },
+    {
+      "vendor": "Rechargesupport",
+      "domains": [
+        "rechargesupport.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Recurly",
+      "domains": [
+        "recurly.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Repl",
+      "domains": [
+        "repl.co"
+      ],
+      "endpoint_count": 12,
+      "use_case_count": 5
+    },
+    {
+      "vendor": "Replit",
+      "domains": [
+        "replit.app",
+        "replit.dev"
+      ],
+      "endpoint_count": 26,
+      "use_case_count": 8
+    },
+    {
+      "vendor": "Reqres",
+      "domains": [
+        "reqres.in"
+      ],
+      "endpoint_count": 7,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Restapiexample",
+      "domains": [
+        "restapiexample.com"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Restcountries",
+      "domains": [
+        "restcountries.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Retool",
+      "domains": [
+        "retool.com"
+      ],
+      "endpoint_count": 4,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Returnsportal",
+      "domains": [
+        "returnsportal.co"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Richrelevance",
+      "domains": [
+        "richrelevance.com"
+      ],
+      "endpoint_count": 5,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Rma",
+      "domains": [
+        "rma"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Roller",
+      "domains": [
+        "roller.app"
+      ],
+      "endpoint_count": 5,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Rugcheck",
+      "domains": [
+        "rugcheck.xyz"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Run",
+      "domains": [
+        "run.app"
+      ],
+      "endpoint_count": 17,
+      "use_case_count": 5
+    },
+    {
+      "vendor": "Salesforce",
+      "domains": [
+        "force.com",
+        "salesforce.com"
+      ],
+      "endpoint_count": 186,
+      "use_case_count": 7
+    },
+    {
+      "vendor": "Salesforce Sites",
+      "domains": [
+        "salesforce-sites.com"
+      ],
+      "endpoint_count": 16,
+      "use_case_count": 6
+    },
+    {
+      "vendor": "Sample",
+      "domains": [
+        "sample.support"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Scryfall",
+      "domains": [
+        "scryfall.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Segment",
+      "domains": [
+        "segment.io"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Sendcloud",
+      "domains": [
+        "sendcloud.com"
+      ],
+      "endpoint_count": 4,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "ServiceNow",
+      "domains": [
+        "service-now.com"
+      ],
+      "endpoint_count": 6,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Ship24",
+      "domains": [
+        "ship24.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "ShipStation",
+      "domains": [
+        "shipstation.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Shiphero",
+      "domains": [
+        "shiphero.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Shipup",
+      "domains": [
+        "shipup.co"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Shopback",
+      "domains": [
+        "shopback.de",
+        "shopback.de{678632eab5911e6082a0a964|}",
+        "shopback.de{683d6f4a9e908126b7659041|}{683d693aacebc15ed9aa88a7|}{683d6fdf72107e85dc8e589a|}",
+        "shopback.my",
+        "shopback.ph",
+        "shopback.ph{678632eab5911e6082a0a964|}",
+        "shopback.sg",
+        "shopback.sg{678632eab5911e6082a0a964|}"
+      ],
+      "endpoint_count": 44,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Shopify",
+      "domains": [
+        "myshopify.com",
+        "shopify.com",
+        "shopify.dev"
+      ],
+      "endpoint_count": 663,
+      "use_case_count": 6
+    },
+    {
+      "vendor": "Sierrasoftworks",
+      "domains": [
+        "sierrasoftworks.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Signalsland",
+      "domains": [
+        "signalsland.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Simbasleep",
+      "domains": [
+        "simbasleep.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Sisense",
+      "domains": [
+        "sisense.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Site",
+      "domains": [
+        "site.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Skilljar",
+      "domains": [
+        "skilljar.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Slack",
+      "domains": [
+        "slack.com"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Smallbizsoundboard",
+      "domains": [
+        "smallbizsoundboard.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Smartbox",
+      "domains": [
+        "smartbox.com"
+      ],
+      "endpoint_count": 5,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Smartystreets",
+      "domains": [
+        "smartystreets.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Smooch",
+      "domains": [
+        "smooch.io"
+      ],
+      "endpoint_count": 18,
+      "use_case_count": 4
+    },
+    {
+      "vendor": "Snowflakecomputing",
+      "domains": [
+        "snowflakecomputing.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Solscan",
+      "domains": [
+        "solscan.io"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Some",
+      "domains": [
+        "some.come"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Something",
+      "domains": [
+        "something.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Sophos",
+      "domains": [
+        "sophos.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Spotify",
+      "domains": [
+        "spotify.com"
+      ],
+      "endpoint_count": 10,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Squareup",
+      "domains": [
+        "squareup.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Ssl Checker",
+      "domains": [
+        "ssl-checker.io"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Statuspage",
+      "domains": [
+        "statuspage.io"
+      ],
+      "endpoint_count": 15,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Stg Apiairasia",
+      "domains": [
+        "stg-apiairasia.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Stg Atiairasia",
+      "domains": [
+        "stg-atiairasia.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Stgairasia",
+      "domains": [
+        "stgairasia.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Stripe",
+      "domains": [
+        "stripe.com"
+      ],
+      "endpoint_count": 64,
+      "use_case_count": 6
+    },
+    {
+      "vendor": "Suitapi",
+      "domains": [
+        "suitapi.com"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Sunbasket",
+      "domains": [
+        "sunbasket.com",
+        "sunbasket.dev"
+      ],
+      "endpoint_count": 22,
+      "use_case_count": 4
+    },
+    {
+      "vendor": "Super",
+      "domains": [
+        "super.com"
+      ],
+      "endpoint_count": 12,
+      "use_case_count": 5
+    },
+    {
+      "vendor": "Swapi",
+      "domains": [
+        "swapi.dev"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Systeme",
+      "domains": [
+        "systeme.io"
+      ],
+      "endpoint_count": 5,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Tangocard",
+      "domains": [
+        "tangocard.com"
+      ],
+      "endpoint_count": 24,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Tcgplayer",
+      "domains": [
+        "tcgplayer.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Telemedmd",
+      "domains": [
+        "telemedmd.ca"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Test",
+      "domains": [
+        "test.com"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Tgrventures",
+      "domains": [
+        "tgrventures.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Thecatapi",
+      "domains": [
+        "thecatapi.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Thecocktaildb",
+      "domains": [
+        "thecocktaildb.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Thrivemarketinternal",
+      "domains": [
+        "thrivemarketinternal.com"
+      ],
+      "endpoint_count": 5,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Tickpick",
+      "domains": [
+        "tickpick.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Tilt",
+      "domains": [
+        "tilt.com"
+      ],
+      "endpoint_count": 21,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Timeapi",
+      "domains": [
+        "timeapi.io"
+      ],
+      "endpoint_count": 7,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Timezonedb",
+      "domains": [
+        "timezonedb.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Tomtom",
+      "domains": [
+        "tomtom.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Track123",
+      "domains": [
+        "track123.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Trackingmore",
+      "domains": [
+        "trackingmore.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Trafilea",
+      "domains": [
+        "trafilea.io"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Trakt",
+      "domains": [
+        "trakt.tv"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Trayapp",
+      "domains": [
+        "trayapp.io"
+      ],
+      "endpoint_count": 7,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Trustedshops",
+      "domains": [
+        "trustedshops.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Tugo",
+      "domains": [
+        "tugo.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Twdev",
+      "domains": [
+        "twdev.io"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Twilio",
+      "domains": [
+        "twilio.com"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Twilio Segment",
+      "domains": [
+        "segment.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Twilio SendGrid",
+      "domains": [
+        "sendgrid.com"
+      ],
+      "endpoint_count": 6,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Typicode",
+      "domains": [
+        "typicode.com"
+      ],
+      "endpoint_count": 8,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Uaudio",
+      "domains": [
+        "uaudio.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Unbxd",
+      "domains": [
+        "unbxd.io"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Upclick",
+      "domains": [
+        "upclick.com"
+      ],
+      "endpoint_count": 15,
+      "use_case_count": 4
+    },
+    {
+      "vendor": "Uptrends",
+      "domains": [
+        "uptrends.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Useinsider",
+      "domains": [
+        "useinsider.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Ve",
+      "domains": [
+        "ve.ai"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Vercel",
+      "domains": [
+        "vercel.app"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Vidaxl",
+      "domains": [
+        "vidaxl.com",
+        "vidaxl.net",
+        "vidaxl.org"
+      ],
+      "endpoint_count": 17,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Videoslots",
+      "domains": [
+        "videoslots.com"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Viewdns",
+      "domains": [
+        "viewdns.info"
+      ],
+      "endpoint_count": 4,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Vimeo",
+      "domains": [
+        "vimeo.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Voyado",
+      "domains": [
+        "voyado.com"
+      ],
+      "endpoint_count": 6,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Vstech",
+      "domains": [
+        "vstech.cloud"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Wattpad",
+      "domains": [
+        "wattpad.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Weatherapi",
+      "domains": [
+        "weatherapi.com"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Webhook",
+      "domains": [
+        "webhook.site"
+      ],
+      "endpoint_count": 5,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Whc",
+      "domains": [
+        "whc.ca"
+      ],
+      "endpoint_count": 5,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Wikipedia",
+      "domains": [
+        "wikipedia.org"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Wio",
+      "domains": [
+        "wio.io"
+      ],
+      "endpoint_count": 7,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Wiremockapi",
+      "domains": [
+        "wiremockapi.cloud"
+      ],
+      "endpoint_count": 8,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "Wizards",
+      "domains": [
+        "wizards.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Wonderment",
+      "domains": [
+        "wonderment.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Wondershare",
+      "domains": [
+        "wondershare.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Woodupp",
+      "domains": [
+        "woodupp.com",
+        "woodupp.de",
+        "woodupp.fr",
+        "woodupp.nl"
+      ],
+      "endpoint_count": 7,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Workato",
+      "domains": [
+        "workato.com"
+      ],
+      "endpoint_count": 15,
+      "use_case_count": 5
+    },
+    {
+      "vendor": "Workers",
+      "domains": [
+        "workers.dev"
+      ],
+      "endpoint_count": 5,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Wrike",
+      "domains": [
+        "wrike.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Wrke",
+      "domains": [
+        "wrke.io"
+      ],
+      "endpoint_count": 5,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Wunderflats",
+      "domains": [
+        "wunderflats.xyz"
+      ],
+      "endpoint_count": 10,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Yahoo",
+      "domains": [
+        "yahoo.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Ynab",
+      "domains": [
+        "ynab.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Yotpo",
+      "domains": [
+        "yotpo.com"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Your Magento Host",
+      "domains": [
+        "your-magento-host.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Yurace",
+      "domains": [
+        "yurace.pro"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Zapier",
+      "domains": [
+        "zapier.com"
+      ],
+      "endpoint_count": 10,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Zendesk",
+      "domains": [
+        "zendesk.com",
+        "zopim.com"
+      ],
+      "endpoint_count": 187,
+      "use_case_count": 6
+    },
+    {
+      "vendor": "Zenoti",
+      "domains": [
+        "zenoti.com"
+      ],
+      "endpoint_count": 3,
+      "use_case_count": 2
+    },
+    {
+      "vendor": "Zenquotes",
+      "domains": [
+        "zenquotes.io"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Zight",
+      "domains": [
+        "zight.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Zingle",
+      "domains": [
+        "zingle.me"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Ziplingo",
+      "domains": [
+        "ziplingo.com"
+      ],
+      "endpoint_count": 2,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Zippopotam",
+      "domains": [
+        "zippopotam.us"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "Zoominfo",
+      "domains": [
+        "zoominfo.com"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "{6690196089A434E49Bdef6Db|}{6297D79535C8B0Edb0118616|}",
+      "domains": [
+        "{6690196089a434e49bdef6db|}{6297d79535c8b0edb0118616|}"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "{678632Eab5911E6082A0A964|}Goshopback",
+      "domains": [
+        "{678632eab5911e6082a0a964|}goshopback.com",
+        "{678632eab5911e6082a0a964|}goshopback.vn"
+      ],
+      "endpoint_count": 12,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "{678632Eab5911E6082A0A964|}Shopback",
+      "domains": [
+        "{678632eab5911e6082a0a964|}shopback.de",
+        "{678632eab5911e6082a0a964|}shopback.my",
+        "{678632eab5911e6082a0a964|}shopback.ph",
+        "{678632eab5911e6082a0a964|}shopback.sg"
+      ],
+      "endpoint_count": 26,
+      "use_case_count": 3
+    },
+    {
+      "vendor": "{678Fc577A2264A6E2011483A|}",
+      "domains": [
+        "{678fc577a2264a6e2011483a|}"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "{678Fc577A2264A6E2011483A|}{6554E3D9490A6F4D475Ab9F4|}",
+      "domains": [
+        "{678fc577a2264a6e2011483a|}{6554e3d9490a6f4d475ab9f4|}"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "{683D693Aacebc15Ed9Aa88A7|}Goshopback",
+      "domains": [
+        "{683d693aacebc15ed9aa88a7|}goshopback.com{678632eab5911e6082a0a964|}"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    },
+    {
+      "vendor": "{684863F5246Dac161F03A1Be|}",
+      "domains": [
+        "{684863f5246dac161f03a1be|}"
+      ],
+      "endpoint_count": 1,
+      "use_case_count": 1
+    }
+  ]
+}
